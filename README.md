@@ -1,3 +1,5 @@
+(This is a clone of erickrf's repo, updated for compatibility with Python 3 and TF 1.15.)
+
 *Important note*: I did not author this code. This repository was forked around 2017, I had the intention of working with this code but never did. Meanwhile, it seems the original one was deleted and now this one seems to be originally mine. Sadly, I don't remember who was the original author (it was not the one just below).
 
 ## Efficient recursive (tree-structured) neural networks in TensorFlow
