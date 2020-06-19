@@ -1,4 +1,4 @@
-(This is a clone of erickrf's repo, updated for compatibility with Python 3 and TF 1.15.)
+(Note from Natania: This is a clone of erickrf's repo, with the Static code updated for compatibility with Python 3 and TF 1.15. The changes so far are minor, but I'm currently in the process of overhauling the Tree code to work with the data I have.)
 
 *Important note*: I did not author this code. This repository was forked around 2017, I had the intention of working with this code but never did. Meanwhile, it seems the original one was deleted and now this one seems to be originally mine. Sadly, I don't remember who was the original author (it was not the one just below).
 
